@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kut:home|Door43 (kut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kut|d43-kut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kut/archive/master.zip|d43-kut.zip]]
+
+**Recent Changes**
+{{changes>ns = kut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kut|Ethnologue data]]
+
